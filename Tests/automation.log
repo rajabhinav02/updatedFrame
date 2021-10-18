@@ -1,0 +1,150 @@
+2021-06-25 19:28:35,883 : INFO : Homepage : element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]found
+2021-06-25 19:28:35,976 : INFO : Homepage : data Abhisend to element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]
+2021-06-25 19:28:35,997 : INFO : Homepage : element with locator typecssand locator[name='email']found
+2021-06-25 19:28:36,061 : INFO : Homepage : data Rajsend to element with locator typecssand locator[name='email']
+2021-06-25 19:28:36,075 : INFO : Homepage : element with locator typecssand locator#exampleInputPassword1found
+2021-06-25 19:28:36,162 : INFO : Homepage : data Hahasend to element with locator typecssand locator#exampleInputPassword1
+2021-06-25 19:28:36,182 : INFO : Homepage : element with locator typeidand locatorexampleCheck1found
+2021-06-25 19:28:36,255 : INFO : Homepage : element with locator typeidand locatorexampleCheck1clicked
+2021-06-25 19:28:36,352 : INFO : Homepage : element with locator typecssand locator#inlineRadio2found
+2021-06-25 19:28:36,398 : INFO : Homepage : element with locator typecssand locator#inlineRadio2clicked
+2021-06-25 19:28:36,411 : INFO : Homepage : element with locator typeidand locator[name='bday']not found
+2021-06-25 19:28:36,457 : INFO : Homepage : element with locator typeidand locator[name='bday']not clicked
+2021-06-25 19:28:36,486 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:28:36,554 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:28:36,565 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:28:36,606 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:28:36,618 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:28:36,658 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:28:36,675 : INFO : Homepage : element with locator typecssand locator[type='submit']found
+2021-06-25 19:28:36,753 : INFO : Homepage : element with locator typecssand locator[type='submit']clicked
+2021-06-25 19:28:36,774 : INFO : Homepage : element with locator typexpathand locator//div[contains (@class, 'alert-success')]found
+2021-06-25 19:28:36,797 : INFO : TestStatus : ##VERIFICATION SUCCESSFUL Form submission
+2021-06-25 19:28:37,010 : INFO : TestStatus : Screenshot save to the directory: C:\Users\Punam\workspace_python\Updatedframe\Base\..\ScreenshotsTitle.1624629516804.png
+2021-06-25 19:28:37,010 : INFO : TestStatus : ###VERIFICATION FAILED Title
+2021-06-25 19:28:37,010 : ERROR : TestStatus : test_formsubmission failed 
+2021-06-25 19:28:37,059 : INFO : Homepage : element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]found
+2021-06-25 19:28:37,141 : INFO : Homepage : data navsend to element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]
+2021-06-25 19:28:37,154 : INFO : Homepage : element with locator typecssand locator[name='email']found
+2021-06-25 19:28:37,234 : INFO : Homepage : data checksend to element with locator typecssand locator[name='email']
+2021-06-25 19:28:37,242 : INFO : Homepage : element with locator typecssand locator#exampleInputPassword1found
+2021-06-25 19:28:37,295 : INFO : Homepage : data lolsend to element with locator typecssand locator#exampleInputPassword1
+2021-06-25 19:28:37,310 : INFO : Homepage : element with locator typeidand locatorexampleCheck1found
+2021-06-25 19:28:37,351 : INFO : Homepage : element with locator typeidand locatorexampleCheck1clicked
+2021-06-25 19:28:37,399 : INFO : Homepage : element with locator typecssand locator#inlineRadio2found
+2021-06-25 19:28:37,438 : INFO : Homepage : element with locator typecssand locator#inlineRadio2clicked
+2021-06-25 19:28:37,456 : INFO : Homepage : element with locator typeidand locator[name='bday']not found
+2021-06-25 19:28:37,460 : INFO : Homepage : element with locator typeidand locator[name='bday']not clicked
+2021-06-25 19:28:37,472 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:28:37,511 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:28:37,524 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:28:37,565 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:28:37,577 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:28:37,624 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:28:37,641 : INFO : Homepage : element with locator typecssand locator[type='submit']found
+2021-06-25 19:28:37,697 : INFO : Homepage : element with locator typecssand locator[type='submit']clicked
+2021-06-25 19:28:37,708 : INFO : Homepage : element with locator typexpathand locator//div[contains (@class, 'alert-success')]found
+2021-06-25 19:28:37,723 : INFO : TestStatus : ##VERIFICATION SUCCESSFUL Form submission
+2021-06-25 19:28:37,893 : INFO : TestStatus : Screenshot save to the directory: C:\Users\Punam\workspace_python\Updatedframe\Base\..\ScreenshotsTitle.1624629517729.png
+2021-06-25 19:28:37,894 : INFO : TestStatus : ###VERIFICATION FAILED Title
+2021-06-25 19:28:37,894 : ERROR : TestStatus : test_formsubmission failed 
+2021-06-25 19:30:33,523 : INFO : Homepage : element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]found
+2021-06-25 19:30:33,638 : INFO : Homepage : data Abhisend to element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]
+2021-06-25 19:30:33,653 : INFO : Homepage : element with locator typecssand locator[name='email']found
+2021-06-25 19:30:33,713 : INFO : Homepage : data Rajsend to element with locator typecssand locator[name='email']
+2021-06-25 19:30:33,726 : INFO : Homepage : element with locator typecssand locator#exampleInputPassword1found
+2021-06-25 19:30:33,795 : INFO : Homepage : data Hahasend to element with locator typecssand locator#exampleInputPassword1
+2021-06-25 19:30:33,812 : INFO : Homepage : element with locator typeidand locatorexampleCheck1found
+2021-06-25 19:30:33,867 : INFO : Homepage : element with locator typeidand locatorexampleCheck1clicked
+2021-06-25 19:30:33,958 : INFO : Homepage : element with locator typecssand locator#inlineRadio2found
+2021-06-25 19:30:34,007 : INFO : Homepage : element with locator typecssand locator#inlineRadio2clicked
+2021-06-25 19:30:34,022 : INFO : Homepage : element with locator typeidand locator[name='bday']not found
+2021-06-25 19:30:34,098 : INFO : Homepage : element with locator typeidand locator[name='bday']not clicked
+2021-06-25 19:30:34,144 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:30:34,247 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:30:34,258 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:30:34,294 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:30:34,307 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:30:34,348 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:30:34,365 : INFO : Homepage : element with locator typecssand locator[type='submit']found
+2021-06-25 19:30:34,633 : INFO : Homepage : element with locator typecssand locator[type='submit']clicked
+2021-06-25 19:30:34,663 : INFO : Homepage : element with locator typexpathand locator//div[contains (@class, 'alert-success')]found
+2021-06-25 19:30:34,685 : INFO : TestStatus : ##VERIFICATION SUCCESSFUL Form submission
+2021-06-25 19:30:35,604 : INFO : TestStatus : Screenshot save to the directory: C:\Users\Punam\workspace_python\Updatedframe\Base\../Screenshots/Title.1624629634693.png
+2021-06-25 19:30:35,605 : INFO : TestStatus : ###VERIFICATION FAILED Title
+2021-06-25 19:30:35,605 : ERROR : TestStatus : test_formsubmission failed 
+2021-06-25 19:30:35,647 : INFO : Homepage : element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]found
+2021-06-25 19:30:35,715 : INFO : Homepage : data navsend to element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]
+2021-06-25 19:30:35,728 : INFO : Homepage : element with locator typecssand locator[name='email']found
+2021-06-25 19:30:35,792 : INFO : Homepage : data checksend to element with locator typecssand locator[name='email']
+2021-06-25 19:30:35,803 : INFO : Homepage : element with locator typecssand locator#exampleInputPassword1found
+2021-06-25 19:30:35,852 : INFO : Homepage : data lolsend to element with locator typecssand locator#exampleInputPassword1
+2021-06-25 19:30:35,860 : INFO : Homepage : element with locator typeidand locatorexampleCheck1found
+2021-06-25 19:30:35,906 : INFO : Homepage : element with locator typeidand locatorexampleCheck1clicked
+2021-06-25 19:30:35,953 : INFO : Homepage : element with locator typecssand locator#inlineRadio2found
+2021-06-25 19:30:35,989 : INFO : Homepage : element with locator typecssand locator#inlineRadio2clicked
+2021-06-25 19:30:35,999 : INFO : Homepage : element with locator typeidand locator[name='bday']not found
+2021-06-25 19:30:36,004 : INFO : Homepage : element with locator typeidand locator[name='bday']not clicked
+2021-06-25 19:30:36,019 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:30:36,059 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:30:36,070 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:30:36,109 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:30:36,121 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:30:36,164 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:30:36,175 : INFO : Homepage : element with locator typecssand locator[type='submit']found
+2021-06-25 19:30:36,217 : INFO : Homepage : element with locator typecssand locator[type='submit']clicked
+2021-06-25 19:30:36,225 : INFO : Homepage : element with locator typexpathand locator//div[contains (@class, 'alert-success')]found
+2021-06-25 19:30:36,236 : INFO : TestStatus : ##VERIFICATION SUCCESSFUL Form submission
+2021-06-25 19:30:36,451 : INFO : TestStatus : Screenshot save to the directory: C:\Users\Punam\workspace_python\Updatedframe\Base\../Screenshots/Title.1624629636243.png
+2021-06-25 19:30:36,451 : INFO : TestStatus : ###VERIFICATION FAILED Title
+2021-06-25 19:30:36,452 : ERROR : TestStatus : test_formsubmission failed 
+2021-06-25 19:31:10,853 : INFO : Homepage : element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]found
+2021-06-25 19:31:10,940 : INFO : Homepage : data Abhisend to element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]
+2021-06-25 19:31:10,954 : INFO : Homepage : element with locator typecssand locator[name='email']found
+2021-06-25 19:31:11,025 : INFO : Homepage : data Rajsend to element with locator typecssand locator[name='email']
+2021-06-25 19:31:11,038 : INFO : Homepage : element with locator typecssand locator#exampleInputPassword1found
+2021-06-25 19:31:11,107 : INFO : Homepage : data Hahasend to element with locator typecssand locator#exampleInputPassword1
+2021-06-25 19:31:11,128 : INFO : Homepage : element with locator typeidand locatorexampleCheck1found
+2021-06-25 19:31:11,197 : INFO : Homepage : element with locator typeidand locatorexampleCheck1clicked
+2021-06-25 19:31:11,296 : INFO : Homepage : element with locator typecssand locator#inlineRadio2found
+2021-06-25 19:31:11,349 : INFO : Homepage : element with locator typecssand locator#inlineRadio2clicked
+2021-06-25 19:31:11,363 : INFO : Homepage : element with locator typeidand locator[name='bday']not found
+2021-06-25 19:31:11,386 : INFO : Homepage : element with locator typeidand locator[name='bday']not clicked
+2021-06-25 19:31:11,407 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:31:11,536 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:31:11,548 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:31:11,587 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:31:11,599 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:31:11,643 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:31:11,661 : INFO : Homepage : element with locator typecssand locator[type='submit']found
+2021-06-25 19:31:12,250 : INFO : Homepage : element with locator typecssand locator[type='submit']clicked
+2021-06-25 19:31:12,267 : INFO : Homepage : element with locator typexpathand locator//div[contains (@class, 'alert-success')]found
+2021-06-25 19:31:12,290 : INFO : TestStatus : ##VERIFICATION SUCCESSFUL Form submission
+2021-06-25 19:31:12,744 : INFO : TestStatus : Screenshot save to the directory: C:\Users\Punam\workspace_python\Updatedframe\Base\../Screenshots/Title.1624629672296.png
+2021-06-25 19:31:12,744 : INFO : TestStatus : ###VERIFICATION FAILED Title
+2021-06-25 19:31:12,744 : ERROR : TestStatus : test_formsubmission failed 
+2021-06-25 19:31:12,804 : INFO : Homepage : element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]found
+2021-06-25 19:31:12,887 : INFO : Homepage : data navsend to element with locator typexpathand locator//input[contains(@class, 'form-control') and (@name = 'name')]
+2021-06-25 19:31:12,905 : INFO : Homepage : element with locator typecssand locator[name='email']found
+2021-06-25 19:31:12,970 : INFO : Homepage : data checksend to element with locator typecssand locator[name='email']
+2021-06-25 19:31:12,978 : INFO : Homepage : element with locator typecssand locator#exampleInputPassword1found
+2021-06-25 19:31:13,037 : INFO : Homepage : data lolsend to element with locator typecssand locator#exampleInputPassword1
+2021-06-25 19:31:13,053 : INFO : Homepage : element with locator typeidand locatorexampleCheck1found
+2021-06-25 19:31:13,094 : INFO : Homepage : element with locator typeidand locatorexampleCheck1clicked
+2021-06-25 19:31:13,149 : INFO : Homepage : element with locator typecssand locator#inlineRadio2found
+2021-06-25 19:31:13,187 : INFO : Homepage : element with locator typecssand locator#inlineRadio2clicked
+2021-06-25 19:31:13,202 : INFO : Homepage : element with locator typeidand locator[name='bday']not found
+2021-06-25 19:31:13,207 : INFO : Homepage : element with locator typeidand locator[name='bday']not clicked
+2021-06-25 19:31:13,220 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:31:13,261 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:31:13,274 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:31:13,314 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:31:13,328 : INFO : Homepage : element with locator typecssand locator[name='bday']found
+2021-06-25 19:31:13,370 : INFO : Homepage : data NOT send to element with locator typecssand locator[name='bday']
+2021-06-25 19:31:13,383 : INFO : Homepage : element with locator typecssand locator[type='submit']found
+2021-06-25 19:31:13,425 : INFO : Homepage : element with locator typecssand locator[type='submit']clicked
+2021-06-25 19:31:13,435 : INFO : Homepage : element with locator typexpathand locator//div[contains (@class, 'alert-success')]found
+2021-06-25 19:31:13,444 : INFO : TestStatus : ##VERIFICATION SUCCESSFUL Form submission
+2021-06-25 19:31:13,648 : INFO : TestStatus : Screenshot save to the directory: C:\Users\Punam\workspace_python\Updatedframe\Base\../Screenshots/Title.1624629673452.png
+2021-06-25 19:31:13,648 : INFO : TestStatus : ###VERIFICATION FAILED Title
+2021-06-25 19:31:13,648 : ERROR : TestStatus : test_formsubmission failed 
